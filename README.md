@@ -1,6 +1,6 @@
 # Fast API Tutorial
 
-This is a simple API made from the (Code Camp Tutorial)[https://www.youtube.com/watch?v=tLKKmouUamsA].
+This is a simple API made from the [Code Camp Tutorial](https://www.youtube.com/watch?v=tLKKmouUamsA).
 
 ## What was learnt
 
@@ -26,5 +26,5 @@ And run the command below to run the API:
 uv run uvicorn main:app --reload
 ```
 
-Now, visit the the (API url)[localhost:8000/docs], to test the API.
+Now, visit the the [API url](localhost:8000/docs), to test the API.
 
